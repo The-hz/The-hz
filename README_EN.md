@@ -39,8 +39,7 @@ Here are some of the technologies I work with:
 
 ### 🏆 Featured Projects
 
-Here are some projects I'm proud of:
-
+Here are some pinned projects:
 - [**Meteor-Client-CNSupport**](https://github.com/The-hz/Meteor-Client-CNSupport): A fork of Meteor Client for Minecraft Fabric with added Chinese support.[reference:0]
 - [**MeteorClient-CNTextRenderingSupport**](https://github.com/The-hz/MeteorClient-CNTextRenderingSupport): Adds Chinese text rendering support for Meteor Client.[reference:1]
 - [**AntiCheatTestPlugin**](https://github.com/The-hz/AntiCheatTestPlugin): A Minecraft Paper anti-cheat testing plugin.[reference:2]
