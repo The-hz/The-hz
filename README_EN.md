@@ -27,16 +27,6 @@ Here are some of the technologies I work with:
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- 来源: https://github.com/anuraghazra/github-readme-stats -->
-![The-hz's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-hz&show_icons=true&theme=radical)
-
-<!-- 来源: https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-hz&layout=compact&theme=radical)
-
----
-
 ### 🏆 Featured Projects
 
 Here are some pinned projects:
