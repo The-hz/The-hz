@@ -29,16 +29,6 @@
 
 ---
 
-### 📊 GitHub 统计
-
-<!-- 统计卡片由 https://github.com/anuraghazra/github-readme-stats 提供 -->
-![The-hz 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=The-hz&show_icons=true&theme=radical)
-
-<!-- 常用语言统计 -->
-![Top Langs](https://github-readme-stats.vercel.app/app/top-langs/?username=The-hz&layout=compact&theme=radical)
-
----
-
 ### 🏆 精选项目
 
 以下是我Pinned的一些作品：
