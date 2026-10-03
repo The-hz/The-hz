@@ -1,23 +1,11 @@
-# 👋 你好，我是 The-hz
+# 你好，我是 The-hz
 
 [![English Version](./README_EN.md)](./README_EN.md) | **简体中文**
 
 [![GitHub followers](https://img.shields.io/github/followers/The-hz?label=关注&style=social)](https://github.com/The-hz)
 [![GitHub stars](https://img.shields.io/github/stars/The-hz?label=星标&style=social)](https://github.com/The-hz)
 
----
-
-### 🚀 关于我
-
-一个热爱探索代码世界的开发者，始终保持对新技术的热情，喜欢构建有趣的项目。
-
-- 🔭 目前正在参与多个开源项目的开发。
-- 🌱 正在深入学习系统级编程的底层原理。
-- ⚡ 趣事：享受用简洁优雅的代码解决复杂问题。
-
----
-
-### 🛠️ 技术栈
+### 技术栈
 
 日常工作中主要使用的编程语言：
 
@@ -29,7 +17,7 @@
 
 ---
 
-### 🏆 精选项目
+### 精选项目
 
 以下是我Pinned的一些作品：
 
@@ -39,13 +27,8 @@
 
 ---
 
-### 📫 联系我
+### 联系我
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/The-hz)
-<!-- 你可以在这里添加更多社交链接，例如： -->
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/你的账号) -->
-<!-- [![B站](https://img.shields.io/badge/B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/你的UID) -->
-
----
-
-⭐️ 来自 [The-hz](https://github.com/The-hz)
+[![Gitee](https://img.shields.io/badge/zsr-gitee-red?logo=Gitee)](https://gitee.com/The-hz)
+[![B站](https://img.shields.io/badge/B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/3546793595898503)
