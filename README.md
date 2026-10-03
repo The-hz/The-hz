@@ -31,4 +31,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/The-hz)
 [![Gitee](https://img.shields.io/badge/zsr-gitee-red?logo=Gitee)](https://gitee.com/The-hz)
-[![B站](https://img.shields.io/badge/B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)]([https://b23.tv/3546793595898503](https://space.bilibili.com/3546793595898503))
+[![B站](https://img.shields.io/badge/B站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546793595898503)
